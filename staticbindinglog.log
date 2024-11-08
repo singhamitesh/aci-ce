@@ -1,0 +1,39 @@
+VLAN       AP         tn         PATH       NODE       Int       
+This API has been called for BD-CONFIG -  https://localhost:10455//api/node/mo/uni/tn-mgmt/ap-Mgmt-AP/epg-VL-1142-EPG/rspathAtt-[topology/pod-1/protpaths-1683-1684/pathep-Server-vPC42-IfPolGrp.json
+1142       Mgmt-AP    mgmt       protpaths  1683-1684  Server-vPC42-IfPolGrp
+This API has been called for BD-CONFIG -  https://localhost:10455//api/node/mo/uni/tn-mgmt/ap-Mgmt-AP/epg-VL-1142-EPG/rspathAtt-[topology/pod-1/protpaths-1683-1684/pathep-Server-vPC41-IfPolGrp.json
+1142       Mgmt-AP    mgmt       protpaths  1683-1684  Server-vPC41-IfPolGrp
+This API has been called for BD-CONFIG -  https://localhost:10455//api/node/mo/uni/tn-mgmt/ap-Mgmt-AP/epg-VL-1142-EPG/rspathAtt-[topology/pod-1/protpaths-1683-1684/pathep-Server-vPC40-IfPolGrp.json
+1142       Mgmt-AP    mgmt       protpaths  1683-1684  Server-vPC40-IfPolGrp
+This API has been called for BD-CONFIG -  https://localhost:10455//api/node/mo/uni/tn-mgmt/ap-Mgmt-AP/epg-VL-1142-EPG/rspathAtt-[topology/pod-1/protpaths-1693-1694/pathep-Server-vPC39-IfPolGrp.json
+1142       Mgmt-AP    mgmt       protpaths  1693-1694  Server-vPC39-IfPolGrp
+This API has been called for BD-CONFIG -  https://localhost:10455//api/node/mo/uni/tn-mgmt/ap-Mgmt-AP/epg-VL-1142-EPG/rspathAtt-[topology/pod-1/protpaths-1693-1694/pathep-Server-vPC44-IfPolGrp.json
+1142       Mgmt-AP    mgmt       protpaths  1693-1694  Server-vPC44-IfPolGrp
+This API has been called for BD-CONFIG -  https://localhost:10455//api/node/mo/uni/tn-mgmt/ap-Mgmt-AP/epg-VL-1142-EPG/rspathAtt-[topology/pod-1/protpaths-1583-1584/pathep-Server-vPC12-IfPolGrp.json
+1142       Mgmt-AP    mgmt       protpaths  1583-1584  Server-vPC12-IfPolGrp
+This API has been called for BD-CONFIG -  https://localhost:10455//api/node/mo/uni/tn-mgmt/ap-Mgmt-AP/epg-VL-1142-EPG/rspathAtt-[topology/pod-1/protpaths-1583-1584/pathep-Server-vPC15-IfPolGrp.json
+1142       Mgmt-AP    mgmt       protpaths  1583-1584  Server-vPC15-IfPolGrp
+This API has been called for BD-CONFIG -  https://localhost:10455//api/node/mo/uni/tn-mgmt/ap-Mgmt-AP/epg-VL-1142-EPG/rspathAtt-[topology/pod-1/protpaths-1513-1514/pathep-Server-vPC3-IfPolGrp.json
+1142       Mgmt-AP    mgmt       protpaths  1513-1514  Server-vPC3-IfPolGrp
+This API has been called for BD-CONFIG -  https://localhost:10455//api/node/mo/uni/tn-mgmt/ap-Mgmt-AP/epg-VL-1142-EPG/rspathAtt-[topology/pod-1/protpaths-1513-1514/pathep-Server-vPC15-IfPolGrp.json
+1142       Mgmt-AP    mgmt       protpaths  1513-1514  Server-vPC15-IfPolGrp
+This API has been called for BD-CONFIG -  https://localhost:10455//api/node/mo/uni/tn-mgmt/ap-Mgmt-AP/epg-VL-1142-EPG/rspathAtt-[topology/pod-1/protpaths-1513-1514/pathep-Server-vPC12-IfPolGrp.json
+1142       Mgmt-AP    mgmt       protpaths  1513-1514  Server-vPC12-IfPolGrp
+This API has been called for BD-CONFIG -  https://localhost:10455//api/node/mo/uni/tn-mgmt/ap-Mgmt-AP/epg-VL-1142-EPG/rspathAtt-[topology/pod-1/protpaths-1513-1514/pathep-Server-vPC9-IfPolGrp.json
+1142       Mgmt-AP    mgmt       protpaths  1513-1514  Server-vPC9-IfPolGrp
+This API has been called for BD-CONFIG -  https://localhost:10455//api/node/mo/uni/tn-mgmt/ap-Mgmt-AP/epg-VL-1142-EPG/rspathAtt-[topology/pod-1/protpaths-1513-1514/pathep-Server-vPC6-IfPolGrp.json
+1142       Mgmt-AP    mgmt       protpaths  1513-1514  Server-vPC6-IfPolGrp
+This API has been called for BD-CONFIG -  https://localhost:10455//api/node/mo/uni/tn-mgmt/ap-Mgmt-AP/epg-VL-1142-EPG/rspathAtt-[topology/pod-1/protpaths-1383-1384/pathep-Server-vPC10-IfPolGrp.json
+1142       Mgmt-AP    mgmt       protpaths  1383-1384  Server-vPC10-IfPolGrp
+This API has been called for BD-CONFIG -  https://localhost:10455//api/node/mo/uni/tn-mgmt/ap-Mgmt-AP/epg-VL-1142-EPG/rspathAtt-[topology/pod-1/protpaths-1233-1234/pathep-Server-vPC26-IfPolGrp.json
+1142       Mgmt-AP    mgmt       protpaths  1233-1234  Server-vPC26-IfPolGrp
+This API has been called for BD-CONFIG -  https://localhost:10455//api/node/mo/uni/tn-mgmt/ap-Mgmt-AP/epg-VL-1142-EPG/rspathAtt-[topology/pod-1/protpaths-1183-1184/pathep-Server-vPC9-IfPolGrp.json
+1142       Mgmt-AP    mgmt       protpaths  1183-1184  Server-vPC9-IfPolGrp
+This API has been called for BD-CONFIG -  https://localhost:10455//api/node/mo/uni/tn-mgmt/ap-Mgmt-AP/epg-VL-1142-EPG/rspathAtt-[topology/pod-1/protpaths-1193-1194/pathep-Server-vPC37-IfPolGrp.json
+1142       Mgmt-AP    mgmt       protpaths  1193-1194  Server-vPC37-IfPolGrp
+This API has been called for BD-CONFIG -  https://localhost:10455//api/node/mo/uni/tn-mgmt/ap-Mgmt-AP/epg-VL-1142-EPG/rspathAtt-[topology/pod-1/protpaths-1193-1194/pathep-Server-vPC40-IfPolGrp.json
+1142       Mgmt-AP    mgmt       protpaths  1193-1194  Server-vPC40-IfPolGrp
+This API has been called for BD-CONFIG -  https://localhost:10455//api/node/mo/uni/tn-mgmt/ap-Mgmt-AP/epg-VL-1142-EPG/rspathAtt-[topology/pod-1/protpaths-1173-1174/pathep-Server-vPC45-IfPolGrp.json
+1142       Mgmt-AP    mgmt       protpaths  1173-1174  Server-vPC45-IfPolGrp
+This API has been called for BD-CONFIG -  https://localhost:10455//api/node/mo/uni/tn-mgmt/ap-Mgmt-AP/epg-VL-1142-EPG/rspathAtt-[topology/pod-1/protpaths-1093-1094/pathep-Server-vPC39-IfPolGrp.json
+1142       Mgmt-AP    mgmt       protpaths  1093-1094  Server-vPC39-IfPolGrp
